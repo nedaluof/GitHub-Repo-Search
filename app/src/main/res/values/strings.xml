@@ -1,0 +1,9 @@
+<resources>
+    <!-- Created By : nidalouf 2/26/2020-->
+    <string name="app_name">GitHub Repo Search</string>
+    <string name="enter_a_query_and_then_click_search">enter a query and then click search</string>
+    <string name="search_url_will_show_up_here_when_you_click_search">search URL will show up here when you click search</string>
+    <string name="search_to_see_results">Search to see results</string>
+    <string name="search">Search</string>
+    <string name="err_occur">An Error Occur !</string>
+</resources>
